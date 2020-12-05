@@ -11,7 +11,11 @@ Use this command to install GIT on Ubuntu:
 ```
 Use this command to install GCC on Ubuntu:
 ```shell
-> sudo apt install git
+> sudo apt install build-essential
+```
+Manual pages about using GNU (additional):
+```shell
+> sudo apt-get install manpages-dev
 ```
 ## Follow these steps to use the exercises solutions
 Use the command below to clone the repository in your computer:

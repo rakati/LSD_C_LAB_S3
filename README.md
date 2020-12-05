@@ -18,7 +18,7 @@ Manual pages about using GNU (additional):
 > sudo apt-get install manpages-dev
 ```
 ## Follow these steps to use the exercises solutions
-Use the command below to clone the repository in your computer:
+Use the command below to clone the repository to your local machine:
 ```shell
 > git clone https://github.com/rakati/LSD_C_LAB.git
 ```

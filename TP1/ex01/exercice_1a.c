@@ -30,7 +30,7 @@ int main()
     scanf("%f", &B[i]);
   }
 
-  /*Apllying forward sbstitution*/
+  /*Apllying forward substitution*/
   X[0] = B[0]/A[0][0];
   for (i = 1;i < n; i++)
   {

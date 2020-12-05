@@ -2,6 +2,18 @@
 This repository contain the exercises corrections of our C_LAB sessions :
 
 # HOW TO USE THE SOLUTION
+
+## Requirements
+First you will need GCC and GIT to be installed on your machine.
+Use this command to install GIT on Ubuntu:
+```shell
+> sudo apt install git
+```
+Use this command to install GCC on Ubuntu:
+```shell
+> sudo apt install git
+```
+## Follow these steps to use the exercises solutions
 Use the command below to clone the repository in your computer:
 ```shell
 > git clone https://github.com/rakati/LSD_C_LAB.git

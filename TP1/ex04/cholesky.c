@@ -7,7 +7,7 @@ int main()
   /* 
   ** What are you looking for ? \
   ** go ahead and code the solution by yourself. \
-  ** you still always can ask for help on slack.
+  ** you can always ask for help on slack.
   */
   return (0);
 }

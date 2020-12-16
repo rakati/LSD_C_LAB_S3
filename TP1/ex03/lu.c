@@ -1,25 +1,17 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 #define N 10
 
-
-float *descente(float A[N][N], float B[N], int n)
+float *lu(float A[N][N], float B[N], int n)
 {
-  float   *x;
-
-  /* Here we allocate the result verctor \
-  (you're gonna do it yourself in the next exercises)*/
-  x = malloc(sizeof(float) * n);
-
 
   /******Implement the solution here******/
   /***************************************/
-  
-  /****************************************/
 
+
+  /***************************************/
   return (x);
 }
-
 
 int main()
 {
@@ -50,10 +42,11 @@ int main()
   }
 
   /* The calculation of the result */
-  x = descente(A, B, n);
-  
+  x = lu(A, B, n);
+
   /* Printing the results */
   printf("\nThe resulting vector: [");
   for (int i = 0; i < n; i++)
     printf("%f%c", x[i], ",]"[i == n - 1]);
 }
+

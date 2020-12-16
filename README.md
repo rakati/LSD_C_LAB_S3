@@ -25,7 +25,7 @@ Manual pages about using GNU (additional):
 ## How to use the template
 First of all you need to fork the repository.
 The uou can use the command below to clone the repository to your local machine:
-PS: you need to change YOUR-USER-NAME in the github link with your Github username.
+PS: you need to change **YOUR-USER-NAME** in the github link with your Github username.
 ```shell
 > git clone https://github.com/YOUR-USER-NAME/LSD_C_LAB.git
 ```

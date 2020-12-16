@@ -46,7 +46,7 @@ git add *
 ```
 Commit your changes :
 ```shell
-git add *
+git commit -m "a comment about your changes"
 ```
 Push your changes :
 ```shell
